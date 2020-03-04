@@ -56,17 +56,4 @@
 - [x] 调整线聊天插件参数，使之能够随着鼠标滑动位置自适应调整  2019.09.15
 - [ ] 持续更新...
 
->**更多详情教程，强烈推荐看我写的：[Hexo+Github博客搭建完全教程](https://sunhwee.com/posts/6e8839eb.html)**
-
->**最后，如果项目和教程对你有所帮助或者你看见了还算比较喜欢，欢迎给我`star`，谢谢您！**
-
-有什么问题可以在文章最后评论区**留言和讨论**，当然，欢迎点击文章最后的打赏按键，请博主一杯冰阔乐，笑～
-<p align="center">
-<img width="100" src="https://shw2018.github.io/medias/reward/alipay.bmp" >
-<img width="100" src="https://shw2018.github.io/medias/reward/wechat.bmp" >
-<img width="100" src="https://shw2018.github.io/medias/reward/zan.png" ></a></p>
-
-
-## License
-
-[Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+>**更多详情教程，强烈推荐看sunhwee写的：[Hexo+Github博客搭建完全教程](https://sunhwee.com/posts/6e8839eb.html)**
